@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="09cbb5409787711005a674400153af0f" label="Produtos" max_length="40" name="x_1259584_gest_o_0_produtos" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Imagem" max_length="40" name="imagem" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Item" mandatory="true" max_length="40" name="item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Quantidade" mandatory="true" max_length="40" name="quantidade" type="integer"/>
+    </element>
+</database>

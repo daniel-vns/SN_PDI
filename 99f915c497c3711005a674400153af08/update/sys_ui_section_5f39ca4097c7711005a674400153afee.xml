@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Usuario" section_id="5f39ca4097c7711005a674400153afee" sys_domain="global" table="sys_db_object" version="3" view="ci_definition">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Usuario</caption>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 21:24:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f39ca4097c7711005a674400153afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope>
+            <sys_update_name>sys_ui_section_5f39ca4097c7711005a674400153afee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 21:24:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CI Definition" name="ci_definition">c2567de3370102000a9dcc028e41f1b1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

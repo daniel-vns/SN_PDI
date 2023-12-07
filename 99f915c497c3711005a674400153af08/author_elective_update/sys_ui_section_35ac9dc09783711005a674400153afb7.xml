@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="35ac9dc09783711005a674400153afb7" sys_domain="global" table="x_1259584_gest_o_0_produto" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantidade</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 20:17:32</sys_created_on>
+            <sys_id>4ee9f1cc9747711005a674400153af76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 20:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>imagem</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 20:17:32</sys_created_on>
+            <sys_id>c2e9f1cc9747711005a674400153af77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 20:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 20:17:32</sys_created_on>
+            <sys_id>46e9f1cc9747711005a674400153af77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 20:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 20:17:32</sys_created_on>
+            <sys_id>0ee9f1cc9747711005a674400153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 20:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1259584_gest_o_0_produto</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 18:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35ac9dc09783711005a674400153afb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1259584_gest_o_0_produto</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope>
+            <sys_update_name>sys_ui_section_35ac9dc09783711005a674400153afb7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 18:09:43</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</application>
+        <file_path/>
+        <instance_id>c5435434db10b3c042b321c405961909</instance_id>
+        <instance_name>dev75554</instance_name>
+        <name>sys_ui_section_35ac9dc09783711005a674400153afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="35ac9dc09783711005a674400153afb7" sys_domain="global" table="x_1259584_gest_o_0_produto" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>quantidade</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:17:32</sys_created_on><sys_id>4ee9f1cc9747711005a674400153af76</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:17:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>imagem</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:17:32</sys_created_on><sys_id>c2e9f1cc9747711005a674400153af77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:17:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:17:32</sys_created_on><sys_id>46e9f1cc9747711005a674400153af77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:17:32</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>item</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:17:32</sys_created_on><sys_id>0ee9f1cc9747711005a674400153af9c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1259584_gest_o_0_produto" sys_domain="global" view="Default view">35ac9dc09783711005a674400153afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:17:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1259584_gest_o_0_produto</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 18:09:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35ac9dc09783711005a674400153afb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1259584_gest_o_0_produto</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope><sys_update_name>sys_ui_section_35ac9dc09783711005a674400153afb7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 18:09:43</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-189520437</payload_hash>
+        <record_name>Produto</record_name>
+        <reverted_from/>
+        <source>95f915c497c3711005a674400153af0c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:17:32</sys_created_on>
+        <sys_id>5ee9f1cc9747711005a674400153af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c40c74bcc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:17:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>16e9f1cc23477110b4db1e181e11f69e</update_guid>
+        <update_guid_history>16e9f1cc23477110b4db1e181e11f69e:-189520437,1cc32904c1077110ee7f4b4a7e0da96d:-342613181,7dac95880ac3711077c1e3af87bab2a5:-651494941,b9ac95881fc371100152f5209177e1a3:-432954932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:26:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>259d342f3f7b4f4eb9fc08403ece4304</sys_id>
+        <sys_metadata>35ac9dc09783711005a674400153afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1259584_gest_o_0_produto</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package>
+        <sys_parent display_value="">ccac158897c3711005a674400153aff4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope>
+        <sys_scope_delete display_value="">09fc85f83ff745b083340c4e24146900</sys_scope_delete>
+        <sys_update_name>sys_ui_section_35ac9dc09783711005a674400153afb7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_35ac9dc09783711005a674400153afb7">5ee9f1cc9747711005a674400153af9e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:26:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Listar Pedidos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1259584_gest_o_0_pedidos</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:00:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92c5b1889747711005a674400153af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Listar Pedidos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope>
+        <sys_update_name>sys_app_module_92c5b1889747711005a674400153af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:00:09</sys_updated_on>
+        <timeline_page/>
+        <title>Listar Pedidos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</application>
+        <file_path/>
+        <instance_id>c5435434db10b3c042b321c405961909</instance_id>
+        <instance_name>dev75554</instance_name>
+        <name>sys_app_module_92c5b1889747711005a674400153af0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Listar Pedidos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1259584_gest_o_0_pedidos</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:00:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>92c5b1889747711005a674400153af0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Listar Pedidos</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope><sys_update_name>sys_app_module_92c5b1889747711005a674400153af0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:00:09</sys_updated_on><timeline_page/><title>Listar Pedidos</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-436444429</payload_hash>
+        <record_name>Listar Pedidos</record_name>
+        <reverted_from/>
+        <source>95f915c497c3711005a674400153af0c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:29:09</sys_created_on>
+        <sys_id>949cb5809787711005a674400153af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c40d1eea60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:29:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>abe5b148d2477110db6fa61aff376a69</update_guid>
+        <update_guid_history>abe5b148d2477110db6fa61aff376a69:-111285283,abe5b148d2477110db6fa61aff376a69:-111285283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Listar Pedidos">3e9d31049787711005a674400153afeb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:33:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0a2702dc8a6842b08090ee59d0165900</sys_id>
+        <sys_metadata>92c5b1889747711005a674400153af0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Listar Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259584_gest_o_0">99f915c497c3711005a674400153af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">99f915c497c3711005a674400153af08</sys_scope>
+        <sys_scope_delete display_value="">09fc85f83ff745b083340c4e24146900</sys_scope_delete>
+        <sys_update_name>sys_app_module_92c5b1889747711005a674400153af0b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_92c5b1889747711005a674400153af0b">949cb5809787711005a674400153af9b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:33:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
